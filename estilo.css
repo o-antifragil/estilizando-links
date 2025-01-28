@@ -1,0 +1,19 @@
+a {
+    cursor: pointer;
+    margin: 20px;
+    padding: 10px;
+}
+
+a:visited {
+    color: aquamarine;
+
+}
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
